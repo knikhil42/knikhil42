@@ -4,7 +4,7 @@
 
 <p>
   
-Problem Solver|Backend Developer|Data|Infrastructure|Architect
+Backend Developer|Data|Infrastructure|Architect
 
 </p>
 
