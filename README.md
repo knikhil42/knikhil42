@@ -9,6 +9,6 @@ Backend Developer|Software Architect|Infrastructure|
 </p>
 
 
-[![GitHub knikhil695](https://img.shields.io/github/followers/knikhil42?label=follow%20github&style=flat-square)](https://github.com/knikhil695)
+[![GitHub knikhil695](https://img.shields.io/github/followers/knikhil42?label=follow%20github&style=flat-square)](https://github.com/knikhil42)
 
 <br>
