@@ -2,6 +2,8 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=knikhil42&count_private=true&show_icons=true&theme=cobalt" width="360">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   
 Backend Developer|Software Architect|Infrastructure|
