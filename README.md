@@ -4,7 +4,7 @@
 
 <p>
   
-Backend Developer|Software Architect|Infrastructure|
+Backend Developer|Software Architect|Infrastructure
 
 </p>
 
