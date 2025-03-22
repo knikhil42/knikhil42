@@ -4,7 +4,7 @@
 
 <p>
   
-Solutions Architect|Backend Developer
+Solutions Architect|Engineering Manager|Backend Developer
 
 </p>
 
